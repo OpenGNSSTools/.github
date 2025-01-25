@@ -13,6 +13,12 @@ A user-friendly calendar tool that provides detailed GNSS time information, incl
 
 [Try it out!](https://opengnsstools.github.io/GNSSCalendar) | [Source Code](https://github.com/OpenGNSSTools/GNSSCalendar)
 
+### SatTrackView 🛰️
+
+An interactive web-based visualization tool for tracking GNSS (Global Navigation Satellite Systems) satellites in real-time. The application displays the positions of GPS, GLONASS, Galileo, and BeiDou satellites on a world map and provides detailed information about their visibility and orbital parameters.
+
+[Try it out!](https://opengnsstools.github.io/SatTrackView) | [Source Code](https://github.com/OpenGNSSTools/SatTrackView)
+
 *More tools coming soon...*
 
 ## 💻 Technical Approach
