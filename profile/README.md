@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/cca5da01-d986-4f0b-a9dd-fa47d19ac89d)
-
 # 🌍 OpenGNSSTools
 
 > Practical tools for GNSS data enthusiasts
